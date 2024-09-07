@@ -39,7 +39,7 @@ Este archivo contiene el código fuente de la calculadora IMC. El código realiz
 
 ## Reflexiones del Proyecto
 
-A través de este proyecto, he aprendido la importancia de validar los datos del usuario para evitar errores en el programa. El uso de funciones como `int` y `float` para la conversión de datos, así como la validación de entradas, ha sido fundamental. La implementación de la fórmula general para el cálculo del IMC me ha permitido mejorar mis habilidades en Python y entender mejor cómo manejar datos de entrada en aplicaciones reales. Este proyecto ha sido una excelente oportunidad para fortalecer mis conocimientos en el lenguaje Python.
+A través de este proyecto, he aprendido la importancia de validar los datos del usuario para evitar errores en el programa. El uso de funciones como `int` y `float` para la conversión de datos, así como la validación de entradas, ha sido fundamental. La implementación de la fórmula general para el cálculo del IMC. Me ha permitido mejorar mis habilidades en Python y comprender mejor cómo manejar datos de entrada en aplicaciones reales. Este proyecto ha sido una excelente oportunidad para fortalecer mis conocimientos en el lenguaje Python.
 
 ## Contribuciones
 
